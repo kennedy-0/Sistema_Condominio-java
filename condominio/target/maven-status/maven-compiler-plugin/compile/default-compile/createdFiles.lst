@@ -1,0 +1,9 @@
+br/edu/poo/m5678/model/Apartamento.class
+br/edu/poo/m5678/service/ViaCepService.class
+br/edu/poo/m5678/view/Menu.class
+br/edu/poo/m5678/config/ConexaoDB.class
+br/edu/poo/m5678/util/Validador.class
+br/edu/poo/m5678/Main.class
+br/edu/poo/m5678/dao/ApartamentoDAO.class
+br/edu/poo/m5678/model/Morador.class
+br/edu/poo/m5678/dao/MoradorDAO.class

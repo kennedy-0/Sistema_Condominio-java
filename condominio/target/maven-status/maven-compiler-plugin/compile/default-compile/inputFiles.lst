@@ -1,0 +1,9 @@
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/Main.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/config/ConexaoDB.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/dao/ApartamentoDAO.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/dao/MoradorDAO.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/model/Apartamento.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/model/Morador.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/service/ViaCepService.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/util/Validador.java
+/home/kennedy/Documentos/condominio/src/main/java/br/edu/poo/m5678/view/Menu.java
