@@ -44,7 +44,13 @@ DB_PASSWORD=
 Se o `.env` não existir, o programa usa esses mesmos valores como padrão.
 
 ## Como executar
-
+*MySql*
+```bash
+ sudo mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED VIA mysql_native_password USING PASSWORD('');"
+  sudo mysql -e "FLUSH PRIVILEGES;"
+  mysql -u root
+```
+*Sistema*
 ```bash
 mvn clean compile exec:java
 ```
